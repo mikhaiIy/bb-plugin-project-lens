@@ -1,0 +1,6 @@
+.claude/
+dev/
+tests/
+node_modules/
+src/fixtures/
+artifacts/
